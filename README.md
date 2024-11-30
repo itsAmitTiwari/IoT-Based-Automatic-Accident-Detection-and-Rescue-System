@@ -27,15 +27,8 @@ DC Motor
 3.7V Li-ion Battery with 4056 Charging Module
 Circuit Diagram
 
-I have added the circuit diagram in the document file for the project in repository.
 
-Installation
 
-Clone the repository:
-git clone https://github.com/rawat28/IoT-Based-Automatic-Accident-Detection-and-Rescue-System.git
-Open the project in your Arduino IDE.
-Upload the code to your Arduino board.
-Usage
 
 Connect all components according to the circuit diagram.
 Power the system using the Li-ion battery.
